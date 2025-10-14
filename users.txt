@@ -1,0 +1,4 @@
+sindisiwe letter,1234567890
+sindisiwe,1234567890
+sindiisiwe,\123456789
+sinsisiwe,1234567890
